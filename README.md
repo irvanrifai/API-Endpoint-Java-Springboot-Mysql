@@ -11,4 +11,4 @@
 ## You can run with maven or gradle. But I run with maven
 - Make sure your database has been created with Mysql depend on this app
 - Run the database server with XAMPP / MAMP / Laragon
-- Run the spring app with "mvn spring-boot:run"
+- Run the spring app with "mvnw spring-boot:run"
